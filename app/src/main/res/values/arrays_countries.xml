@@ -1,0 +1,12 @@
+<resources>
+    <string-array name="countries_array">
+        <item>Россия</item>
+        <item>США</item>
+        <item>Франция</item>
+        <item>Казахстан</item>
+        <item>СССР</item>
+        <item>Германия</item>
+        <item>Южная Корея</item>
+        <item>Великобритания</item>
+    </string-array>
+</resources>

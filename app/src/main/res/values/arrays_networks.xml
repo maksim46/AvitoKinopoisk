@@ -1,0 +1,13 @@
+<resources>
+    <string-array name="network_array">
+        <item>HBO</item>
+        <item>Netflix</item>
+        <item>Amazon</item>
+        <item>Wink</item>
+        <item>more.tv</item>
+        <item>Кинопоиск</item>
+        <item>more.tv</item>
+        <item>Кинопоиск</item>
+        <item>OKKO</item>
+    </string-array>
+</resources>

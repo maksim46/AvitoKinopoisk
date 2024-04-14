@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AvitoKinopoisk</string>
+    <string name="content_description_item_movie_poster">movie poster</string>
+    <string name="something_went_wrong">Что-то пошло не так...</string>
+    <string name="no_description">Описание отсутствует</string>
+    <string name="No_rate">Рейтинг отсутствует</string>
+    <string name="No_reviews">Нет информации об отзывах</string>
+    <string name="Empty" />
+    <string name="movie_or_TVseries">Фильмы или сериал</string>
+    <string name="No_description">Нет описания</string>
+    <string name="history_icon">History Icon</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="Error_during_update">Ошибка во время обновления</string>
+    <string name="input_year">Введите год выпуска или диапазон</string>
+    <string name="year_in_diapazon">Год должен быть в диапазоне %1$s-%2$s</string>
+    <string name="choose_country">"Выберите или введите страну "</string>
+    <string name="production_country">Страна производства</string>
+    <string name="only_letters">Допустимы только буквы</string>
+    <string name="choose_genre">Выберите жанр</string>
+    <string name="genre">Жанр</string>
+    <string name="production_networks">Выберите или введите сеть производства</string>
+    <string name="networks">Сеть производства</string>
+    <string name="until">по</string>
+    <string name="ageRating">"Возрастные ограничения: "</string>
+    <string name="choose_rating">"Выберите рейтинг: "</string>
+    <string name="from">"c "</string>
+    <string name="Drop">Сбросить</string>
+    <string name="apply">Применить</string>
+    <string name="movies_and_tv">Фильмы или сериалы</string>
+</resources>
