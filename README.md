@@ -2,6 +2,7 @@ Api key вставлять в build.gradle :app в параметр buildConfigF
 
 
 UPD ссылка на видео работы приложения https://disk.yandex.ru/i/LKG0KzLuj-f8UA
+
 UPD Согласно требованиям из письма прилагаю примеры запросов и ответов
 
 1) стартовый запрос
